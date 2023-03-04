@@ -1,6 +1,6 @@
 # Unit 6: Housing Rental Analysis for San Francisco
 
-![Decorative image.](06-PyViz/Images/6-4-challenge-image.png)
+![Decorative image.](Images/6-4-challenge-image.png)
 
 ## Background
 
